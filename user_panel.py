@@ -139,13 +139,13 @@ def build_speed_keyboard():
 
 # Voice styles are saved per user, so model/speed settings remain independent.
 VOICE_TYPES = {
-    "sexy": "Sexy",
-    "sad": "Sad",
-    "angry": "Angry",
-    "sad_young": "Sad/Young",
-    "relaxed": "Relaxed",
-    "serious": "Serious",
-    "happy": "Happy",
+    "sexy": "💋 Sexy",
+    "sad": "😢 Sad",
+    "angry": "😡 Angry",
+    "sad_young": "🥺 Sad/Young",
+    "relaxed": "😌 Relaxed",
+    "serious": "😐 Serious",
+    "happy": "😄 Happy",
 }
 
 
