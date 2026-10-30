@@ -45,6 +45,7 @@ DEFAULT_MODELS = [
     {"id": "53ca9f8d971a4410a5f9b159c56cd080", "name": "Linda🙂‍↔️"},
     {"id": "3e2a5ae324da43d7b0de0a28182c1b19", "name": "Reina👸"},
     {"id": "2b38957c81a7418699d639c209fde42f", "name": "Maria👄"},
+    {"id": "28862959fc35487581579ae5bf578b52", "name": "Gita Hall👩🏼‍🦳"},
 ]
 
 USE_CONFIG_MODELS_ONLY = True
