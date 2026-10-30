@@ -40,7 +40,7 @@ DEFAULT_MODELS = [
     {"id": "c5e4c4c57a084a0f9b5b277d36546ef0", "name": "Even👧"},
     {"id": "2fe69a0850b54119ad97af8246e2f6a0", "name": "Freya🧑‍🦰"},
     {"id": "60de84651feb4ac7a0bbc23c45c089e1", "name": "Gia👩‍🦱"},
-    {"id": "8a7f5c27e2e04596b079e78a475d852b", "name": "Lacy🙇‍♀️"},
+    {"id": "e63b6bb69a954375ac20f1e41905494b", "name": "Lacy🙇‍♀️"},
     {"id": "99d3b0d6e12843adb98519581f849a48", "name": "Zoey🧚‍♀️"},
     {"id": "53ca9f8d971a4410a5f9b159c56cd080", "name": "Linda🙂‍↔️"},
     {"id": "3e2a5ae324da43d7b0de0a28182c1b19", "name": "Reina👸"},
