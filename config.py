@@ -50,11 +50,28 @@ DEFAULT_MODELS = [
 
 USE_CONFIG_MODELS_ONLY = True
 
+
 PLANS = [
-    {"name": "Starter", "credits": 50, "price": "$5", "validity_days": 30},
-    {"name": "Pro", "credits": 200, "price": "$15", "validity_days": 30},
-    {"name": "Unlimited-Day", "credits": 400, "price": "$30", "validity_days": 30},
+    {
+        "name": "🥉 Starter Plan",
+        "credits": 50,
+        "price": "💵 $5",
+        "validity_days": 30
+    },
+    {
+        "name": "🥈 Pro Plan",
+        "credits": 200,
+        "price": "💵 $15",
+        "validity_days": 30
+    },
+    {
+        "name": "🥇 Unlimited-Day Plan",
+        "credits": 400,
+        "price": "💵 $30",
+        "validity_days": 30
+    },
 ]
+
 
 USE_WEBHOOK = os.getenv("USE_WEBHOOK", "false").lower() == "true"
 WEBHOOK_BASE_URL = os.getenv("WEBHOOK_BASE_URL", "")
