@@ -55,19 +55,19 @@ PLANS = [
     {
         "name": "🥉 Starter Plan",
         "credits": 50,
-        "price": "💵 $5",
+        "price": "💵 $10",
         "validity_days": 30
     },
     {
         "name": "🥈 Pro Plan",
         "credits": 200,
-        "price": "💵 $15",
+        "price": "💵 $35",
         "validity_days": 30
     },
     {
         "name": "🥇 Unlimited-Day Plan",
         "credits": 400,
-        "price": "💵 $30",
+        "price": "💵 $50",
         "validity_days": 30
     },
 ]
